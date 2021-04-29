@@ -110,13 +110,19 @@
 
 
 <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-md flex items-center space-x-4">
-  <div class="flex-shrink-0">
-    <img class="h-12 w-12" src="./favicon.png" alt="Logo">
-  </div>
-  <div>
-    <div class="text-xl font-medium text-black">test</div>
-    <p class="text-gray-500">Does this work?</p>
-  </div>
+	<div class="flex -space-x-1 overflow-hidden">
+	  <img class="inline-block h-6 w-6 rounded-full ring-2 ring-white" src="https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+	  <img class="inline-block h-6 w-6 rounded-full ring-2 ring-white" src="https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+	  <img class="inline-block h-6 w-6 rounded-full ring-2 ring-white" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80" alt="">
+	  <img class="inline-block h-6 w-6 rounded-full ring-2 ring-white" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+	</div>
+	  <div class="flex-shrink-0">
+	    <img class="h-12 w-12" src="./favicon.png" alt="Logo">
+	  </div>
+	  <div>
+	    <div class="text-xl font-medium text-black">test</div>
+	    <p class="text-gray-500">Does this work?</p>
+	  </div>
 </div>
 
 <div class="py-8 px-8 max-w-sm mx-auto bg-white rounded-xl shadow-md space-y-2 sm:py-4 sm:flex sm:items-center sm:space-y-0 sm:space-x-6">
